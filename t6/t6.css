@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px dashed salmon;
+  text-align: center;
+}
+
+th {
+  padding: 5px 20px;
+  margin: 10px;
+}
+
+td {
+  padding: 5px 20px;
+  margin: 10px;
+  border: 1px dashed salmon;
+}
